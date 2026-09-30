@@ -3,4 +3,4 @@
 GitHub es un servidor que aloja repositorios Git, en donde usando los comandos Git, cualquier programador en cualquier parte del 
 mundo puede realizar sus cambios sin la necesidad de usar una misma computadora, esto ayuda mucho en proyectos colaborativos,
 donde muchas veces por cuestion de horarios o tiempo no pueden estar de manera sincrónica, permitiendo que puedan trabajar a su propio ritmo
-siendo muy útil en la industria
+siendo muy útil en la industria.
